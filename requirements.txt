@@ -1,0 +1,16 @@
+aiosqlite
+asyncpg
+bcrypt
+datasets
+fastapi
+fastapi-login
+gunicorn
+httpx
+pandas
+passlib
+python-multipart
+tortoise-orm
+uvicorn
+watchfiles
+openai
+python-dotenv

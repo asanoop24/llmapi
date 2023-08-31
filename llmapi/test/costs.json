@@ -1,0 +1,18 @@
+{
+  "gpt-3.5-turbo": {
+    "prompt_cost_1k_tokens_usd": 0.0015,
+    "completion_cost_1k_tokens_usd": 0.002
+  },
+  "gpt-3.5-turbo-16k": {
+    "prompt_cost_1k_tokens_usd": 0.003,
+    "completion_cost_1k_tokens_usd": 0.004
+  },
+  "gpt-4": {
+    "prompt_cost_1k_tokens_usd": 0.03,
+    "completion_cost_1k_tokens_usd": 0.06
+  },
+  "gpt-4-32k": {
+    "prompt_cost_1k_tokens_usd": 0.06,
+    "completion_cost_1k_tokens_usd": 0.12
+  }
+}
